@@ -1,0 +1,22 @@
+{
+  "itemGroup.greenlantern": "Green Lantern",
+  "item.greenlantern.power_ring": "Power Ring",
+  "block.greenlantern.power_battery": "Power Battery",
+  "block.greenlantern.energy_construct": "Hard-Light Construct",
+  "mode.greenlantern.blast": "Energy Blast",
+  "mode.greenlantern.bridge": "Construct: Bridge",
+  "mode.greenlantern.shield": "Construct: Shield",
+  "mode.greenlantern.flight": "Flight",
+  "message.greenlantern.mode": "Ring mode: %s",
+  "message.greenlantern.low_power": "The ring flickers... recharge at a Power Battery.",
+  "message.greenlantern.recharged": "Willpower restored. The ring blazes!",
+  "message.greenlantern.full": "Your ring is already fully charged.",
+  "message.greenlantern.no_ring": "You need a Power Ring in your inventory.",
+  "message.greenlantern.flight_on": "Flight engaged",
+  "message.greenlantern.flight_off": "Flight disengaged",
+  "message.greenlantern.out_of_power": "Out of power! Cushioning your fall...",
+  "tooltip.greenlantern.charge": "Charge: %s / %s",
+  "tooltip.greenlantern.mode": "Mode: %s",
+  "tooltip.greenlantern.hint1": "Right-click: use current mode",
+  "tooltip.greenlantern.hint2": "Sneak + Right-click: cycle mode"
+}
